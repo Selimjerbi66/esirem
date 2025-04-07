@@ -43,9 +43,9 @@
             <mxPoint x="320" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vl4uOmjLkUDd6w82f4VN-31" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="130" y="584.5" width="500" height="278" as="geometry">
-            <mxRectangle x="130" y="584.5" width="60" height="30" as="alternateBounds" />
+        <mxCell id="vl4uOmjLkUDd6w82f4VN-31" value="Relations" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="500" height="278" as="geometry">
+            <mxRectangle x="110" y="290" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vl4uOmjLkUDd6w82f4VN-32" value="Produit - Catégories : Un produit peut appartenir à plusieurs catégories, et une catégorie peut contenir plusieurs produits. (Relation n:n)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="vl4uOmjLkUDd6w82f4VN-31">
